@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"failed","Fri Dec 23 14:43:13 CST 2022","Fri Dec 23 14:43:13 CST 2022","81","testcore","test_main","TestMain","","","1",""
+"failed","Fri Dec 23 14:43:13 CST 2022","Fri Dec 23 14:43:13 CST 2022","98","testcore","test_main","TestMain","","","1",""
+"failed","Fri Dec 23 14:43:13 CST 2022","Fri Dec 23 14:43:13 CST 2022","78","testcore","test_main","TestMain","","","1",""

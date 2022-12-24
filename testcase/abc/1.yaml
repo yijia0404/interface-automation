@@ -1,0 +1,5 @@
+- name: 1
+  method: get
+  url: https://www.baidu.com
+  data: None
+  feature: abc
